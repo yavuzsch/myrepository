@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665999177 source:c:\users\yavuz\documents\codeblocks\myfirstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
